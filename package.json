@@ -1,0 +1,21 @@
+{
+  "name": "lwl",
+  "version": "0.0.1",
+  "description": "lone wolf lair bot",
+  "main": "lwl.js",
+  "scripts": {
+    "test": "npm install node-telegram-bot-api --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lwl"
+  },
+  "keywords": [
+    "lwl"
+  ],
+  "author": "coilme",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.21.1"
+  }
+}
